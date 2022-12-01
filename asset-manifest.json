@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Future_Sight/static/css/main.fa437877.css",
+    "main.js": "/Future_Sight/static/js/main.8bfb06da.js",
+    "static/media/IT.jpg": "/Future_Sight/static/media/IT.3c5f00efe4fb7084d45f.jpg",
+    "static/media/Design.jpg": "/Future_Sight/static/media/Design.7e6825735bc472b43664.jpg",
+    "static/media/Pariwisata.jpg": "/Future_Sight/static/media/Pariwisata.f86287eec6cb03229b5b.jpg",
+    "static/media/MainPage.png": "/Future_Sight/static/media/MainPage.c7f26e51e3bd32936a57.png",
+    "static/media/Entertainment.jpg": "/Future_Sight/static/media/Entertainment.4e960c7d43184de5dc64.jpg",
+    "static/media/Kesehatan.jpg": "/Future_Sight/static/media/Kesehatan.421596cc66d65dd66815.jpg",
+    "static/media/Keuangan.jpg": "/Future_Sight/static/media/Keuangan.f6357c7488c011e73037.jpg",
+    "index.html": "/Future_Sight/index.html",
+    "main.fa437877.css.map": "/Future_Sight/static/css/main.fa437877.css.map",
+    "main.8bfb06da.js.map": "/Future_Sight/static/js/main.8bfb06da.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fa437877.css",
+    "static/js/main.8bfb06da.js"
+  ]
+}
